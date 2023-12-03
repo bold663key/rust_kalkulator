@@ -1,1 +1,1 @@
-/media/szymon/DualData/rust/rust_kalkulator/target/release/rust_kalkulator: /media/szymon/DualData/rust/rust_kalkulator/src/main.rs
+C:\Users\grzeg\Desktop\rust_kalkulator\target\release\rust_kalkulator.exe: C:\Users\grzeg\Desktop\rust_kalkulator\src\main.rs
